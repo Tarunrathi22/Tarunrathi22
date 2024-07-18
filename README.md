@@ -7,37 +7,15 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
        
    
 ### Social media: 📡    
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
+Join me on instagram.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
-
-## Competitions: 🥇
- 
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|vksCTF|top 18%| Solo played |09/2023|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
 
 
 ### Working on: 🚀
 
-- Learning [GO](https://github.com/sammorozov/go_ilya_kruk)
+- Learning [GO](https://github.com/Tarunrathi22)
 - [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
+-
 
 
 ## Languages and Tools 
