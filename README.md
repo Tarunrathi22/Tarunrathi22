@@ -1,11 +1,14 @@
-### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+# Hello, I'm Tarun Rathi! 👋
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
-       
+I'm a passionate data scientist with expertise in Python, AI, and machine learning. 
+### About Me:
+- 🌱 Currently diving into the world of deep learning, mastering Python libraries for advanced data analysis.
+- 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms and neural networks.
+- 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
+
    
 ### Social media: 📡    
-[Join me on](https://img.shields.io/twitter/url/https/twitter.com/Kartikkbishnoi.svg?style=social&label=Follow%20%40_tarun_rathi_05)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/_tarun_rathi_05.svg?style=social&label=Follow%20%40_tarun_rathi_05)](https://twitter.com/_tarun_rathi_05)
 
 
 
@@ -16,41 +19,26 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 -
 
 
-## Languages and Tools 
+### Languages and Tools
 
-### Languages:
-| Python3 |
-|-------- |
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  
+#### Languages:
+| Python3 | JS | HTML | PHP | Java |
+|---------|----|------|-----|------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/> |
 
-  
 
 ### Best frameworks and main libraries for Python3:
 
-| Numpy | Pandas | Sklearn | OpenCV |
-|----------|----------|----------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
+| TensorFlow | Numpy | Pandas | Sklearn | OpenCV |
+|------------|-------|--------|---------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="70" height="70"/> |
 
 
 ### My tools for Data Manipulation & Visualisation:
 
-| Conda | Jupyter | MySQL | Plotly | Matpltlib |
-|----------|----------|---------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
-
-
-### OS:
-
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
-
-
-### It's not technology, but I use it. The section will be changed soon.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+| Conda | Jupyter | MySQL | Matplotlib |
+|-------|---------|-------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="70" height="70"/> |
 
 ---
 
