@@ -3,8 +3,7 @@
 I'm a passionate data scientist with expertise in Python, AI, and machine learning. 
 ### About Me:
 - 🌱 Currently diving into the world of deep learning, mastering Python libraries for advanced data analysis.
-- 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms and neural networks.
-- 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
+- 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms.
 
    
 ### Social media: 📡    
