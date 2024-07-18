@@ -63,3 +63,6 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
   <img src="https://komarev.com/ghpvc/?username=Tarunrathi22&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
