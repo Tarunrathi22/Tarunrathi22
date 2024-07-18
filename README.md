@@ -13,7 +13,7 @@ Join me on instagram.
 
 ### Working on: 🚀
 
-- Learning [GO](https://github.com/Tarunrathi22)
+- Learning [GO](https://www.linkedin.com/in/tarun-rathi-880645224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 - [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
 -
 
