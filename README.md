@@ -6,7 +6,7 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 - 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms.
 
 
-Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://kartikbishnoi.github.io/)
+Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://Tarunrathi22.github.io/)
 
    
 ### Social media: 📡    
