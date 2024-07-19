@@ -12,7 +12,7 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 ### Social media: 📡    
 Follow me on Twitter for data science insights, and a peek into the world of machine learning. Let's explore the possibilities together!  
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/_tarun_rathi_05.svg?style=social&label=Follow%20%40_tarun_rathi_05i)](https://twitter.com/_tarun_rathi_05)  
-Connect with me on LinkedIn: [![LinkedIn](https://www.linkedin.com/in/tarun-rathi-880645224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )]
+Connect with me on LinkedIn: [![(https://www.linkedin.com/in/tarun-rathi-880645224/))]
 
 
 ### Working on: 🚀
