@@ -5,10 +5,14 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 - 🌱 Currently diving into the world of deep learning, mastering Python libraries for advanced data analysis.
 - 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms.
 
+
+Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://kartikbishnoi.github.io/)
+
    
 ### Social media: 📡    
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/_tarun_rathi_05.svg?style=social&label=Follow%20%40_tarun_rathi_05)](https://twitter.com/_tarun_rathi_05)
-
+Follow me on Twitter for data science insights, and a peek into the world of machine learning. Let's explore the possibilities together!  
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/_tarun_rathi_05.svg?style=social&label=Follow%20%40_tarun_rathi_05i)](https://twitter.com/_tarun_rathi_05)  
+Connect with me on LinkedIn: [![LinkedIn](https://www.linkedin.com/in/tarun-rathi-880645224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )]
 
 
 ### Working on: 🚀
