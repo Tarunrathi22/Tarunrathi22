@@ -15,14 +15,6 @@ Follow me on Twitter for data science insights, and a peek into the world of mac
 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tarun-rathi-880645224/)
 
 
-
-### Working on: 🚀
-
-- Learning [GO](https://www.linkedin.com/in/tarun-rathi-880645224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
--
-
-
 ### Languages and Tools
 
 #### Languages:
